@@ -81,24 +81,5 @@ def organize_schools(data)
       binding.pry   
     end
   
-    #   {
-    #   "flatiron school bk" => {
-    #     :location => "NYC"
-    #   },
-    #   "flatiron school" => {
-    #     :location => "NYC"
-    #   },
-    #   "dev boot camp" => {
-    #     :location => "SF"
-    #   },
-    #   "dev boot camp chicago" => {
-    #     :location => "Chicago"
-    #   },
-    #   "general assembly" => {
-    #     :location => "NYC"
-    #   },
-    #   "Hack Reactor" => {
-    #     :location => "SF"
-    #   }
-    # }
+
 end
